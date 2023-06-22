@@ -3,7 +3,7 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "depp-link.netlify.app",
+      "package_name": "com.example.deeplinkapp",
       "sha256_cert_fingerprints": [
         "73:14:04:32:83:4D:F5:45:12:62:DB:BF:D3:DA:56:0F:FB:35:65:78:AF:62:71:D4:44:92:50:71:4D:B8:56:14"
       ]
